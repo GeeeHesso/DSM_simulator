@@ -5,7 +5,7 @@ Central controller performs "peak shaving/valley filling" on the overall load cu
 thermostatically controllable loads and batteries. The non flexible loads/productions considered are
 domestic household appliances (timeseries generated using BehavSim) and PV production.
 For the electic power consumption profiles generated, it is possibile to run a Power Flow simulation 
-for radial network topologies and monitor voltage levels.
+for radial network topologies and monitor the voltage levels at the different nodes.
 
 
 Compile the c++ executables:
